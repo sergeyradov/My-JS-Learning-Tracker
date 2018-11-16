@@ -6,7 +6,7 @@ I have been motivated by Syk Houdeib after reading his article at Medium. Here i
 
 [How I switched careers and got a developer job in 10 months a true story](https://medium.freecodecamp.org/how-i-switched-careers-and-got-a-developer-job-in-10-months-a-true-story-b8895e855a8b)
 
-I am already a **performance engineer** for more than 10 years, but I feel an eed to upgrade my knowledge and grow up to Full Stack Web Developer.
+I am already a **performance engineer** for more than 10 years, but I feel an need to upgrade my knowledge and grow up to Full Stack Web Developer.
 I will go over following table and mark skills that I can re-use from existing career already such as GIT
 
 Web Developer Skills
