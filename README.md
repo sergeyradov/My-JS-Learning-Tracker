@@ -35,7 +35,7 @@ Web Developer Skills
 |**NPM**                      |                   |               |               |                  |                |                 |                    |
 |**Open Source Contribution** |                   |               |               |                  |                |                 |                    |
 |**Serverless App**           |   ![done][done]   |               |               |                  |                |                 |                    |
-|**WebPack **                 |                   |               |               |                  |                |                 |                    |
+|**WebPack**                 |                   |               |               |                  |                |                 |                    |
 |**React**                    |                   |               |               |                  |                |                 |                    |
 |**React Native**             |                   |               |               |                  |                |                 |                    |
 |**Angular NG**               |                   |               |               |                  |                |                 |                    |
