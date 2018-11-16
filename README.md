@@ -44,8 +44,6 @@ Web Developer Skills
 |**AJAX**                     |                   |               |               |                  |                |          .      |                    |
 
 
-Learning
---------
 ## Learning
 
 [//]: # (Status images)
