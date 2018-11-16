@@ -11,6 +11,8 @@ I will go over following table and mark skills that I can re-use from existing c
 
 Web Developer Skills
 ------
+[done]: https://user-images.githubusercontent.com/29199184/32275438-8385f5c0-bf0b-11e7-9406-42265f71e2bd.png "Done"
+
 |               Skill         | 1<br>Introduction | 2<br>Basics   | 3<br>Good     | 4<br>Pretty Good | 5<br>Confident | 6<br>Awesome    | 7<br> Projects Set |
 |:---------------------------:|:-----------------:|:-------------:|:-------------:|:----------------:|:--------------:|:---------------:|:-------------------|
 |**HTML5**                    |                   |               |               |                  |                |                 |                    |
@@ -38,6 +40,5 @@ Web Developer Skills
 |**Task runners Gulp/Grunt**  |                   |               |               |                  |                |                 |                    |
 |**NPM scripts**              |                   |               |               |                  |                |                 |                    |
 |**AJAX**                     |                   |               |               |                  |                |          .      |                    |
-|:---------------------------:|:-----------------:|:-------------:|:-------------:|:----------------:|:--------------:|:---------------:|:------------------:|
 
 
